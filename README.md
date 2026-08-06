@@ -1,4 +1,4 @@
-# Tab Playback Controller
+# ConducTab
 
 A Chrome browser extension that helps you control audio and video playback across multiple tabs with ease.
 
@@ -60,7 +60,7 @@ Shortcuts can be customized at `chrome://extensions/shortcuts`.
 
 ## Licensing
 
-TPC uses a tiered licensing model:
+ConducTab uses a tiered licensing model:
 
 - **Free**: Core playback controls, shortcuts, grouping, and detection
 - **Premium**: Volume mixing, sound profiles, sleep timer, playback speed, PiP

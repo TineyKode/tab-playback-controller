@@ -1,4 +1,4 @@
-TAB PLAYBACK CONTROLLER — Development Notes
+CONDUCTAB — Development Notes
 =============================================
 Date: 2026-02-26
 Version: 1.4.0
